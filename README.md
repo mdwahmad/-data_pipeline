@@ -11,7 +11,7 @@ An Airline company called Spark Airways, recieves JSON flight data on daily basi
 - BigQuery
 - Shell
 
-## ETL Pipeline
+## # Flight Data ETL Pipeline
 
 ![Pipeline](resources/pipeline.png)
 
@@ -22,9 +22,6 @@ An Airline company called Spark Airways, recieves JSON flight data on daily basi
 5. Load the transformed data from GCS output bucket into Bigquery partitioned tables.
 6. Delete ephemeral Dataproc Cluster and transformed output data from GCS output bucket.
 7. Use Apache Airflow to create DAGs and automate the Spark ETL batch processing job.
-
-
-# Flight Data ETL Pipeline
 
 This repository contains scripts for a robust ETL (Extract, Transform, Load) pipeline that integrates flight data processing using Apache Spark, orchestrated with Apache Airflow, and loaded into Google BigQuery for analysis.
 
