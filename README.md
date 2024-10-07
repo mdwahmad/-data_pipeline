@@ -1,7 +1,7 @@
 # BigQuery Spark-SQL Batch ETL
 
 ## Problem Statement
-An Airline company called Spark Airways, recieves JSON flight data on daily basis in its GCS bucket. It contains fields such as id, flight_date, airline_code, flight_num, source_airport, destination_airport, departure_time, departure_delay, arrival_time, arrival_delay, airtime, and distance. Design an ETL pipeline for daily data ingestion of this flight data to produce average flight delays by flight number and distance as tables in BigQuery. 
+Spark Airways receives JSON flight data daily, stored in a GCS bucket. The data includes various fields such as flight ID, date, airline code, flight number, and timings related to departure and arrival. The airline requires the design of an ETL pipeline to perform daily data ingestion and generate insights into average flight delays by flight number and by distance. This information needs to be organized into BigQuery tables for subsequent analysis and decision-making processes.
 
 ## Technologies Used
 - Spark SQL
