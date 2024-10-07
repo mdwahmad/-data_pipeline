@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "feisty-flow-437715-t9",
+  "private_key_id": "de4d8b790b41301a14506f64e94f79051f74a6d3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQDWJW+9xjnRqvS4\nTXtPv1pKo3fLOw/awLG2rMhsODuiVuDVr+0dLyalw75MfkAEEa/DFb+nPt1XgB4n\nEqtks73+hqdVBysQWi35Mook1gWiznTrXfTLGZq6OidyuXQ3vesUHCvwdKPhVYSX\nspGhgEPg7iGZHU+bGdGzN7XawaXZmx6AuAygu5Xb6GphT755bFD+1qrwyRYYqRIy\nfXmrFo54XKZRXU6BEyHWi8U7W3yrVCpeEZfF+IHN6YH3kc1nJKI5v6dUHTlS54Ve\n01leXX1GwLYukE8ZW+7/Shx5RXc9MuTyY7cyQDj8zD4YdS9YSKP6v5uUZlV3GmE0\nf/hPTb81AgMBAAECggEAEh7J1UOUOece3QeFYyqcb8tkRBijz01V3FDDhtC9Tw/N\n55cC1+DZAtbM3/kg3pdGiZnqBTNfFFvdcU31nchNz99CAoJgRPp0gG0j3lkT0gJp\nR09EevkYLCDmnKEPsfXKkgGOQEMGaPdNCG8OPp21YK+VvTiLN2MYaPNSWoffSknb\nrCfpOLfDHUfdINvZ92L9cwWcmkvDgscGu1hvbycHzpSokG2DwavTiv8GZzSND2lt\noR3w4jOP6O4UaKWtS7CTCTaML/X27YYnBbeWj81oiZAnABsJNTpUQDz/WAYm9nla\nkxzExNbzV9ggK1H/pLKIHQBlGDL+DSdshmqt3FzjYQKBgQD9RoU3BPeZ710rn0t4\nNSurSy3Ee6VmmkqjqOa96ZNqa2RN8k0xpUO64IzjExZvtddckXaiT3GRWEJltkDv\nar/6Cby2wxqpqV+MWAe9bvXEXxsUn2o64SO5ks/KLo0qkVFcjNxkTtY6v8UHZ8X8\n/9nAMMDKVHcbAE8D3I2B/zSS5QKBgQDYcykZfGvXrwJINgy7ANUpuqCtZ1e4hEau\nIjiL/uNqsugWxNmVxoZid9m/3seK8OUP+P0CnPAMb2AAuy8IKZfjWx/XuuV7uFiP\nhpgT5W9qeWw5SXCqMVzRPucl82bYMeb6VG6no76OaqmMEnlfI1wt4UjWEco9Y3/J\nX6WiGNomEQKBgAL8wvN8LoN1TE8IaPZ5AhPaJicMIk5MgZbeliIlUCTQMXWt5vUv\n8tWQcnj3L6uPpIOl/5U4hKlnNhlHBgsM4kjLtpsdQAJCSis4mpbEaUewq3wZyUH6\nh9ZXgfXriKS45BHIY40XVPWKb4N/2Nj8F5BpwsxgJKt/3G66Oj0PSop1An9ldZXO\nXIQwldh8ANn2zm0dIl4u6kI0O8zl0ySueswfN72S7rMPgf98KLHpPoRKnKDC2/O9\nRdNAAPT/Yr6pFNYdvJkwhmsLk13v6SdgLCwNvNz9/W7SWFEpxFKVd4K91KZwsSMt\ncZPhLh5Lil1aOzj6SJ/buHsUS4+a1TrOwNeBAoGBAJRytkPfWybUqCEpwZvn89Sl\nb8y0YMPmQfqEVEacO0qpPyKvbZjxAKRWMHeBtlPxgEFxuTV4ekEClv3I2py/Uu1M\nWCQs5hqcOYHQHCunttHNkfFKvjh3skXCZbOyyQXVItFRBiUumHQ6wPV1M7paszfn\naWhPIsP7tlZbhhRP6Q98\n-----END PRIVATE KEY-----\n",
+  "client_email": "spark-gcs-access@feisty-flow-437715-t9.iam.gserviceaccount.com",
+  "client_id": "116926433616276174515",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/spark-gcs-access%40feisty-flow-437715-t9.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
